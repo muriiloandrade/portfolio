@@ -1,6 +1,17 @@
 +++
 title = 'About'
 date = 2023-11-05T16:06:12-03:00
+description = "This page contains my personal and professional background, including my journey in software engineering, skills, and interests."
+summary = "Learn about my journey as a software engineer, my skills, and my passion for technology."
+showDate = false
+showPagination = false
+showTaxonomies = false
+showTableOfContents = false
+showWordCount = false
+showComments = false
+showAuthor = false
+showZenMode = false
+showSummary = true
 +++
 
 Hi, I'm **Murilo Andrade**, a technology enthusiast and passionate software engineer. Since the beginning of my journey, I've had the incredible opportunity to get involved in challenging projects that have taught me a lot and helped me grow as a professional.

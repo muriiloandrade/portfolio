@@ -57,10 +57,6 @@ showSummary = true
 sharingLinks = [
   "linkedin",
   "twitter",
-  "whatsapp",
-  "pinterest",
-  "reddit",
-  "facebook",
   "email"
 ]
 layoutBackgroundHeaderSpace = true

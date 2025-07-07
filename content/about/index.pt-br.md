@@ -1,6 +1,17 @@
 +++
 title = 'Sobre mim'
 date = 2023-11-05T16:06:20-03:00
+description = "Esta página contém meu histórico pessoal e profissional, incluindo minha jornada em engenharia de software, habilidades e interesses."
+summary = "Saiba mais sobre minha jornada como engenheiro de software, minhas habilidades e minha paixão por tecnologia."
+showDate = false
+showPagination = false
+showTaxonomies = false
+showTableOfContents = false
+showWordCount = false
+showComments = false
+showAuthor = false
+showZenMode = false
+showSummary = true
 +++
 
 Olá, eu sou **Murilo Andrade**, um entusiasta da tecnologia e engenheiro de software apaixonado. Desde o início da minha jornada, tive a incrível oportunidade de me envolver em projetos desafiadores que me ensinaram muito e me ajudaram a crescer como profissional.
