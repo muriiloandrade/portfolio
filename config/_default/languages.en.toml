@@ -1,0 +1,42 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Murilo A."
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My personal website and portfolio"
+dateFormat = "2006-01-02"
+logo = "favicon.svg"
+
+[params.author]
+name = "Murilo Andrade"
+image = "avatar.webp"
+headline = "Software Engineer focused on backend and continuous learner"
+bio = "I am a software engineer passionate about backend development, always learning and striving to improve my skills. Currently, I work with Node.js, Go, and Python, and I have interests in distributed systems, cloud computing, and artificial intelligence."
+
+[[params.author.links]]
+github = "https://github.com/muriiloandrade"
+
+[[params.author.links]]
+linkedin = "https://linkedin.com/in/muriiloandrade"
+
+[[params.author.links]]
+email = "mailto:murilo@muriloandrade.dev"
+
+[[params.author.links]]
+telegram = "https://t.me/muriloandrade"
+
+[[params.author.links]]
+discord = "https://discord.gg/UV5zKaku"
+
+[[params.author.links]]
+instagram = "https://instagram.com/murilo.dev"
+
+[[params.author.links]]
+whatsapp = "https://wa.me/5571993239472"
+
+[[params.author.links]]
+twitter = "https://x.com/andrademuriilo"

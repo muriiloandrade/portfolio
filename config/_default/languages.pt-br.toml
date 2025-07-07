@@ -1,0 +1,43 @@
+languageCode = "pt-br"
+languageName = "Português (Brasil)"
+weight = 2
+
+title = "Murilo A."
+
+[params]
+displayName = "PT-BR"
+isoCode = "pt-BR"
+rtl = false
+logo = "favicon.svg"
+description = "Meu site pessoal e portfólio"
+dateFormat = "02/01/2006"
+
+[params.author]
+name = "Murilo Andrade"
+image = "avatar.webp"
+headline = "Engenheiro de software focado em backend e aprendiz contínuo"
+bio = "Sou um engenheiro de software apaixonado por backend, sempre aprendendo e buscando melhorar minhas habilidades. Atualmente, trabalho com Node.js, Go e Python, e tenho interesse em sistemas distribuídos, computação em nuvem e inteligência artificial."
+
+[[params.author.links]]
+github = "https://github.com/muriiloandrade"
+
+[[params.author.links]]
+linkedin = "https://linkedin.com/in/muriiloandrade"
+
+[[params.author.links]]
+email = "mailto:murilo@muriloandrade.dev"
+
+[[params.author.links]]
+telegram = "https://t.me/muriloandrade"
+
+[[params.author.links]]
+discord = "https://discord.gg/UV5zKaku"
+
+[[params.author.links]]
+instagram = "https://instagram.com/murilo.dev"
+
+[[params.author.links]]
+whatsapp = "https://wa.me/5571993239472"
+
+[[params.author.links]]
+twitter = "https://x.com/andrademuriilo"
